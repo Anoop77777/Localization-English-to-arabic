@@ -1,0 +1,28 @@
+{
+ 
+  "needHelp": "Need Help?",
+ 
+  "loginText": "Login",
+  "logoutText": "Logout",
+  
+  "email": "Email",
+  "password": "Password",
+ 
+  "name": "Name",
+  
+  "save": "Save",
+  "errorText": "Something went wrong. please try again later",
+ 
+  "seeMore": "See more",
+  
+  "resultsNone": "no results found",
+  
+  "search": "Search",
+ 
+   "phone":"Mobile number",
+   "address":"Address",
+   "direction":"Direction"
+  
+
+ 
+}
